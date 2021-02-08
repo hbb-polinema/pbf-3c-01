@@ -1,9 +1,9 @@
-# Pemrograman Mobile
+# Pemrograman Berbasis Framework
 
 |  |  |
 |--|--|
 | Dosen Pengampu | [Habibie Ed Dien, S.Kom., M.T.](https://github.com/hbb-polinema) |
-| Tahun Ajaran | Ganjil 2020/2021 |
+| Tahun Ajaran | Genap 2020/2021 |
 | Email | habibie@polinema.ac.id |
 | Institusi | jti.polinema.ac.id |
 
