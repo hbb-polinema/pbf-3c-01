@@ -14,7 +14,7 @@
 |--|--|
 | NIM | **nim** |
 | Nama Lengkap | **nama** |
-| Kelas | TI-3D/3E |
+| Kelas | TI-3C/3D |
 
 
 ## Struktur Folder
